@@ -1,18 +1,18 @@
 # Welcome to the Analytics Accelerator Resources and Education Hub
 
-##Vision
+## Vision
 UNet - https://github.com/MIC-DKFZ/nnUNet
 
-##NLP
+## NLP
 
 
-##Audio
+## Audio
 
 
 
-##Learning AI/ML 
+## Learning AI/ML 
 https://nn.labml.ai/
 https://distill.pub/
 
-##Ethics/Philosophy
+## Ethics/Philosophy
 
