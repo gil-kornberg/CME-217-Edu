@@ -1,4 +1,4 @@
-# Welcome to the Analytics Accelerator Resources and Education Hub
+# The Analytics Accelerator Resources and Education Hub
 
 ## Vision
 - UNet - https://github.com/MIC-DKFZ/nnUNet
