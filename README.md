@@ -11,8 +11,8 @@ UNet - https://github.com/MIC-DKFZ/nnUNet
 
 
 ## Learning AI/ML 
-https://nn.labml.ai/
-https://distill.pub/
+- https://nn.labml.ai/
+- https://distill.pub/
 
 ## Ethics/Philosophy
 
