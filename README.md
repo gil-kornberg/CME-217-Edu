@@ -27,5 +27,5 @@
 
 
 #### 😻 [Meme 🔌🔌]
-- https://cs236g.stanford.edu/memes/1/ 236G 🖖 
+- 🖖 [236G](https://cs236g.stanford.edu/memes/1/)
 
