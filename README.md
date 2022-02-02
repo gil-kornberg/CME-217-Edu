@@ -4,9 +4,9 @@
 ## Vision
 - UNet - https://github.com/MIC-DKFZ/nnUNet
 
-| Problem | Approach  | Algorithm | Repo/Language |  | Algorithm | Algorithm | 
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Debiasing image dataset | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Problem | Approach  | Algorithm | Repo/Language | Algorithm | Algorithm | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
+| Debiasing image dataset | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
