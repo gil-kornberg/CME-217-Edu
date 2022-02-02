@@ -7,10 +7,11 @@ body: Body 2
 
 
 #### Vision
-| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | <br /> 🥇🍾🥳 news/videos/demos <br /> |  MEMEs |
+<br />
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/demos |  MEMEs |
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | 
 | Debiasing image dataset for downstream classification | GAN | X | X | X | X | 236G 🖖 https://cs236g.stanford.edu/memes/1/
-
+<br />
 
 #### NLP
 
