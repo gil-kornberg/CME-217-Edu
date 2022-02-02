@@ -1,7 +1,7 @@
 # The Analytics Accelerator 🚀🦾
 
 
-<details><summary>CLICK ME</summary>
+<details><summary>#### Vision</summary>
 <p>
 
 #### We can hide anything, even code!
@@ -15,10 +15,10 @@
 
 
 #### Vision
-| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/memes |  
-| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/memes/demos |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | 
 | Debiasing image dataset for downstream classification | GAN | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
 
 
 #### NLP
@@ -35,7 +35,8 @@
 | Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
-#### 🔮 For finetuning your own NN
+#### 🔮 For finetuning your own NN 
+- Discords... 
 - https://nn.labml.ai/
 - https://distill.pub/
 
