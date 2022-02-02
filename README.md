@@ -1,19 +1,6 @@
 # The Analytics Accelerator 🚀🦾
 
 
-<details><summary>#### Vision</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
-
-
 #### Vision
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/memes/demos |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | 
@@ -24,7 +11,17 @@
 #### NLP
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | 🤓 Paper/lit | news/blogs/videos/memes 🥇🍾🥳| 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| Debiasing image dataset | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| <details><summary>GANs</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details> | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
