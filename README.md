@@ -13,17 +13,17 @@
 <summary>⚠️ Problem </summary>
 <br>
 <details open>
-<summary>🧮 Approach </summary>
+- <summary>🧮 Approach </summary>
 <br>
 Well, you asked for it!
 </details>
 <details open>
-<summary>🪛 Algorithm </summary>
+- <summary>🪛 Algorithm </summary>
 <br>
 Well, you asked for it!
 </details>
 <details open>
-<summary>🎁 Repo + language </summary>
+- <summary>🎁 Repo + language </summary>
 <br>
 Well, you asked for it!
 </details>
