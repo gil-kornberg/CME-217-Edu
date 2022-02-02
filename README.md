@@ -29,5 +29,5 @@
 
 
 #### 🤖🐈 [Meme 🔌🔌]
-- 🖖 [236G](https://cs236g.stanford.edu/memes/1/)
+- 🖖 GAN HQ [236G](https://cs236g.stanford.edu/memes/1/)
 
