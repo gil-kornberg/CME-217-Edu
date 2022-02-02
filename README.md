@@ -10,7 +10,7 @@
 #### NLP
 
 <details open>
-<summary>⚠️ Problem </summary>
+<summary>⚠️ Debiasing image dataset for downstream classification with GANs </summary>
 <br>
 <details open>
 <summary>🧮 Approach </summary>
@@ -32,7 +32,7 @@ Well, you asked for it!
 <br>
 Well, you asked for it!
 </details>
- <details open>
+<details open>
 <summary>🥇🍾🥳 news/blogs/videos/memes </summary>
 <br>
 Well, you asked for it!
