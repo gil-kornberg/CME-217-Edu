@@ -13,17 +13,17 @@
 <summary>⚠️ Problem </summary>
 <br>
 <details open>
-- <summary>🧮 Approach </summary>
+<summary>🧮 Approach </summary>
 <br>
 Well, you asked for it!
 </details>
 <details open>
-- <summary>🪛 Algorithm </summary>
+<summary>🪛 Algorithm </summary>
 <br>
 Well, you asked for it!
 </details>
 <details open>
-- <summary>🎁 Repo + language </summary>
+<summary>🎁 Repo + language </summary>
 <br>
 Well, you asked for it!
 </details>
@@ -39,6 +39,14 @@ Well, you asked for it!
 </details>
 </details>
 
+
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | 🤓 Paper/lit | news/blogs/videos/memes 🥇🍾🥳| 
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
+| X | X | X | X | X | X | 
+</details>
 
 
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | 🤓 Paper/lit | news/blogs/videos/memes 🥇🍾🥳| 
