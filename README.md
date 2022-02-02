@@ -10,10 +10,36 @@
 #### NLP
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>⚠️ Problem </summary>
+<br>
+<details open>
+<summary>🧮 Approach </summary>
 <br>
 Well, you asked for it!
 </details>
+<details open>
+<summary>🪛 Algorithm </summary>
+<br>
+Well, you asked for it!
+</details>
+<details open>
+<summary>🎁 Repo + language </summary>
+<br>
+Well, you asked for it!
+</details>
+<details open>
+<summary>🤓 Paper/lit </summary>
+<br>
+Well, you asked for it!
+</details>
+ <details open>
+<summary>🥇🍾🥳 news/blogs/videos/memes </summary>
+<br>
+Well, you asked for it!
+</details>
+</details>
+
+
 
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | 🤓 Paper/lit | news/blogs/videos/memes 🥇🍾🥳| 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
