@@ -2,19 +2,24 @@
 
 
 ## Vision
-- UNet - https://github.com/MIC-DKFZ/nnUNet
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | Paper/lit | news/blogs/videos/memes 🥇🍾🥳| .edu 🤓 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |
+| Debiasing image dataset for downstream classification | GAN | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
-| ⚠️ Problem  | Approach  | Algorithm | 🎁 Repo (+ language 🐉) | Paper (/relevant literature 🤓) | Algorithm | 
+
+## NLP
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | Paper /lit 🤓 | news/blogs/videos/memes 🥇🍾🥳| 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
 | Debiasing image dataset | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
-## NLP
-
-
-
 ## Audio
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm  | 🎁 Repo + language ✍️  | Paper /lit 🤓 | news/blogs/videos/memes 🥇🍾🥳| 
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
+| Debiasing image dataset | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 ## 🔮 For finetuning your own NN
