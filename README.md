@@ -21,11 +21,13 @@
 
 
 #### 🔮 For finetuning your own NN 
-- Discords... 
 - https://nn.labml.ai/
 - https://distill.pub/
 
 
-#### 😻 [Meme 🔌🔌]
+#### 
+
+
+#### 🤖🐈 [Meme 🔌🔌]
 - 🖖 [236G](https://cs236g.stanford.edu/memes/1/)
 
