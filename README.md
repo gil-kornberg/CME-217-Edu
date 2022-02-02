@@ -7,9 +7,9 @@ body: Body 2
 
 
 #### Vision
-| ⚠️ Problem  | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media | 😹😻 MEMEs |
-| ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | 
-| Debiasing image dataset for downstream classification | GAN | X | X | X | X | 236G 🖖 https://cs236g.stanford.edu/memes/1/
+| ⚠️ Problem  | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
+| ------------- | ------------- | ------------- | ------------- |  ------------- |
+| Debiasing image dataset for downstream classification | GAN | X | X | X | X | 
 
 
 #### NLP
@@ -71,5 +71,6 @@ Well, you asked for it!
 - https://distill.pub/
 
 
-#### 😻 [Memes](https://github.com/)
+#### 😻 [Meme 🔌🔌�]
+- 236G 🖖 https://cs236g.stanford.edu/memes/1/
 
