@@ -1,8 +1,8 @@
 # The Analytics Accelerator 🚀🦾
 
 
-###### Vision
-| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | Paper/lit | news/blogs/videos/memes 🥇🍾🥳| .edu 🤓 | 
+## Vision
+| ⚠️ #### Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | Paper/lit | news/blogs/videos/memes 🥇🍾🥳| .edu 🤓 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |
 | Debiasing image dataset for downstream classification | GAN | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
