@@ -1,18 +1,21 @@
-# The Analytics Accelerator Resources and Education Hub
+# The Analytics Accelerator 🚀🦾
+
 
 ## Vision
 - UNet - https://github.com/MIC-DKFZ/nnUNet
 
+
 ## NLP
+
 
 
 ## Audio
 
 
 
-## Learning AI/ML 
+## For finetuning your own NN
 - https://nn.labml.ai/
 - https://distill.pub/
 
-## Ethics/Philosophy
 
+## Memes
