@@ -9,20 +9,21 @@ body: Body 2
 #### Vision
 | ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| Debiasing image dataset for downstream classification | GAN | [Click here]( X )| X | X | X | 
+| Debiasing image dataset for downstream classification | [Method]( X ) | [Repo/lang]( X )| [Reading]( X ) | [Media]( X ) |
 
 
 #### NLP
 
 | ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| X | X | X | X | X | X | 
+| Short problem statement | [Method]( X ) | [Repo/lang]( X )| [Reading]( X ) | [Media]( X ) |
+
 
 
 #### Audio
 | ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| X | X | X | X | X | X | 
+| Short problem statement | [Method]( X ) | [Repo/lang]( X )| [Reading]( X ) | [Media]( X ) |
 
 
 #### 🔮 For finetuning your own NN 
