@@ -4,10 +4,17 @@
 #### Vision
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/demos |  MEMEs |
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | 
-| Debiasing image dataset for downstream classification | GAN | X | X | X | X | [236G 🖖]https://cs236g.stanford.edu/memes/1/
+| Debiasing image dataset for downstream classification | GAN | X | X | X | X | 236G 🖖 https://cs236g.stanford.edu/memes/1/
 
 
 #### NLP
+
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | 🤓 Paper/lit | news/blogs/videos/memes 🥇🍾🥳| 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
 | X | X | X | X | X | X | 
