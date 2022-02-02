@@ -1,11 +1,5 @@
 # The Analytics Accelerator 🚀🦾
 
-title: Title 1
-body: Body 1
-title: Title 2
-body: Body 2
-
-
 #### Vision
 | ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
