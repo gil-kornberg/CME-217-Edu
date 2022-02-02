@@ -2,16 +2,14 @@
 
 
 #### Vision
-| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/memes/demos |  
-| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | 
-| Debiasing image dataset for downstream classification | GAN | X | X | X | X | 
-| X | X | X | X | X | X | 
+| ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm | 🎁 Repo(+language) | 🤓 Paper/lit/blogs | 🥇🍾🥳 news/videos/demos |  MEMEs |
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | 
+| Debiasing image dataset for downstream classification | GAN | X | X | X | X | [236G 🖖]https://cs236g.stanford.edu/memes/1/
 
 
 #### NLP
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm| 🎁 Repo + language ✍️  | 🤓 Paper/lit | news/blogs/videos/memes 🥇🍾🥳| 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| X | X | X | X | X | X | 
 | X | X | X | X | X | X | 
 
 
@@ -19,7 +17,6 @@
 | ⚠️ Problem  | 🧮 Approach  | 🪛 Algorithm  | 🎁 Repo + language ✍️  | 🤓 Paper/lit  | news/blogs/videos/memes 🥇🍾🥳| 
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
 | Debiasing image dataset | X | X | X | X | X | X | 
-| X | X | X | X | X | X | 
 
 
 #### 🔮 For finetuning your own NN 
@@ -28,5 +25,5 @@
 - https://distill.pub/
 
 
-#### 😻 Memes
+#### 😻 [Memes](https://github.com/)
 
