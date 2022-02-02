@@ -7,22 +7,22 @@ body: Body 2
 
 
 #### Vision
-| ⚠️ Problem  | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
+| ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
 | Debiasing image dataset for downstream classification | GAN | X | X | X | X | 
 
 
 #### NLP
 
-| ⚠️ Problem  | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
+| ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| Debiasing image dataset for downstream classification | GAN | X | X | X | X | 
+| X | X | X | X | X | X | 
 
 
 #### Audio
-| ⚠️ Problem  | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
+| ⚠️ | 🧮 🪛 Method | 🎁 Repo/lang | 📰📚👨‍🎓👩‍🎓 Reading | 📰📹 Media |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
-| Debiasing image dataset for downstream classification | GAN | X | X | X | X | 
+| X | X | X | X | X | X | 
 
 
 #### 🔮 For finetuning your own NN 
